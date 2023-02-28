@@ -1,0 +1,305 @@
+/* CUSTOM CSS */
+
+.nopadding {
+    padding: 0px !important;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    cursor: pointer;
+    text-transform: none !important;
+    text-decoration: none !important;
+    font-size: 12px;
+    list-style: none !important;
+}
+
+.bluetext {
+    color: #45944d !important;
+}
+
+.bg-bluetext {
+    background-color: #45944d !important;
+}
+
+.p_lineheight {
+    line-height: 1 !important;
+}
+
+li {
+    font-size: 16px !important;
+}
+
+.p_12 {
+    font-size: 10px;
+    text-transform: initial;
+    letter-spacing: 0;
+}
+
+.p_14 {
+    font-size: 15px;
+    text-transform: initial;
+    letter-spacing: 0;
+}
+
+.p_50 {
+    font-size: 50px;
+}
+
+.p_70 {
+    font-size: 70px;
+}
+
+.split-text__line li {
+    color: #888888;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+    font-size: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.shipyardtable img {
+    object-fit: cover;
+    width: 100%;
+    height: 60px;
+}
+
+.figureteam img {
+    object-fit: cover;
+    width: 300px;
+    height: 450px;
+}
+
+.swiper-slide img {
+    object-fit: cover;
+    width: 720px;
+    height: 420px;
+}
+
+.section-video {
+    object-fit: cover;
+    width: 350px;
+    height: 100px;
+}
+
+.logo__text-title img {
+    width: 80px;
+    height: 80px;
+}
+
+footer .logo__text-title img {
+    width: 80px;
+    height: 80px;
+}
+
+.section-masthead__heading,
+.section-masthead__text,
+.swiper-slide-active {
+    color: #fff !important;
+}
+
+.bluetext2 {
+    color: #45944d;
+    font-family: 'Playfair Display';
+}
+
+.link-arrow__label {
+    color: #f9dd54;
+}
+
+.split-text h4,
+.split-text h5 {
+    color: #45944d !important;
+}
+
+.figure-member__heading {
+    color: #45944d !important;
+    font-size: 22px !important;
+}
+
+blockquote{
+    background-color: transparent !important;
+    color: #45944d !important;
+}
+
+cite {
+    color: #45944d !important;
+}
+
+cite:before {
+    background-color: #45944d !important;
+}
+
+.split-text p,
+.figure-member__position {
+    color: #888888;
+}
+
+.section__headline,
+.section-cta__line {
+    background-color: #45944d !important;
+}
+
+.slider__arrow:hover {
+    color: #fff !important;
+}
+
+.section-video__icon:hover,
+.section-video__icon:active,
+.menu a:hover {
+    color: #45944d !important;
+}
+
+.section-video__icon svg .circle {
+    stroke: #45944d !important;
+}
+
+.menu a{
+    font-size: 15px !important;
+}
+
+.menu a,
+.specialfont {
+    font-family: 'Playfair Display' !important;
+}
+
+.menu a::before {
+    background-color: #45944d !important;
+}
+
+.button_solid.button_accent-secondary-2 {
+    background-color: #45944d !important;
+    border-color: #45944d;
+}
+
+.header__circle-letters {
+    visibility: hidden !important;
+}
+
+.bg-accent-primary-1 {
+    background-color: #45944d !important;
+}
+
+.logo {
+    color: #45944d !important;
+}
+
+.widgettitle , .widget_recent_entries ul li a , .post-preview__header a{
+    color: #45944d !important;
+}
+
+.widgettitle:before {
+    background-color: #45944d !important;
+}
+.post-preview__header h4 a {
+    font-size: 22px !important;
+}
+
+.input-float__input_focused {
+    border-color: #34c9fa;
+}
+
+.input-float__input_focused+.input-float__label {
+    color: #34c9fa;
+}
+
+.bottom-align-text {
+    bottom: 0;
+}
+
+.button_solid.button_accent-secondary-2:hover {
+    border-color: #fff;
+    background-color: #fff;
+    color: #fff !important;
+}
+
+.bg-accent-secondary-4,
+.figure-member__line {
+    background-color: #45944d !important;
+}
+
+.social__item a,
+.figure-portfolio__category {
+    color: #fff;
+}
+
+.widget ul li a:hover,
+.social__item a:hover {
+    color: #45944d !important;
+}
+
+.section-slider.bg-accent-secondary-3 .slider__counter_current {
+    color: #45944d !important;
+}
+
+.header_color-white:not(.header_sticky) .logo__text>img {
+    background-color: #000 !important;
+}
+
+.homenews img {
+    object-fit: cover;
+    width: 550px;
+    height: 350px;
+}
+
+.menu .sub-menu>li a:hover {
+    border-color: #45944d !important;
+}
+
+btn.focus,
+.btn:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
+
+.button_solid.button_accent-primary-3 {
+    background-color: #45944d !important;
+    border-color: #45944d !important;
+}
+
+.post-preview__wrapper-meta .post-preview__date a {
+    color: #45944d !important;
+}
+
+.post__content h2,
+.post__content h3,
+.post__content h4,
+.post__content h5,
+.post__content h6,
+.post__content a {
+    color: #45944d !important;
+}
+
+.header_color-white:not(.header_sticky) .logo__text {
+    background-image: url("../img/content/greenpark.svg") !important;
+    background-size: cover;
+    width: 90px;
+    height: 82px;
+    text-align: center;
+}
+
+.header_color-white:not(.header_sticky) .logo__text img {
+    display: none;
+}
+
+.vessel .figure-portfolio__content {
+    padding: 10px;
+}
+
+.header__wrapper-overlay-menu.bg-white .menu-overlay li a {
+    color: #45944d !important;
+}
